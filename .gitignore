@@ -1,0 +1,10 @@
+#
+~*.*
+*.*~
+.project
+.iml
+idea/
+.idea/
+*.class
+*.jar
+
